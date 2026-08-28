@@ -1,0 +1,617 @@
+player_id,first_name,second_name,player_name,club_name,position_name,extracted_at,total_points,event_points,now_cost
+115,Maxim,De Cuyper,Maxim De Cuyper,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,17,17,4.6
+123,Jack,Hinshelwood,Jack Hinshelwood,Brighton,MID,2026-08-27 15:23:14.301707+00:00,16,16,6.0
+586,Nobel,Mendy,Nobel Mendy,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,15,15,4.0
+565,Mamadou,Sangaré,Mamadou M.Sangaré,Brentford,MID,2026-08-27 15:23:14.301707+00:00,14,14,5.6
+279,Semi,Ajayi,Semi Ajayi,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,14,14,4.0
+335,Anton,Stach,Anton Stach,Leeds,MID,2026-08-27 15:23:14.301707+00:00,13,13,6.0
+88,Michael,Kayode,Michael Kayode,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,13,13,4.6
+154,Cole,Palmer,Cole Palmer,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,13,13,9.5
+367,Cody,Gakpo,Cody Gakpo,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,12,12,7.0
+165,João Pedro,Junqueira de Jesus,João Pedro João Pedro,Chelsea,FWD,2026-08-27 15:23:14.301707+00:00,11,11,7.6
+15,Martin,Ødegaard,Martin Ødegaard,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,11,11,6.5
+10,Benjamin,White,Benjamin White,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,11,11,5.5
+236,Kiernan,Dewsbury-Hall,Kiernan Dewsbury-Hall,Everton,MID,2026-08-27 15:23:14.301707+00:00,11,11,6.5
+332,James,Justin,James Justin,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,10,10,4.5
+388,Marc,Guéhi,Marc Guéhi,Man City,DEF,2026-08-27 15:23:14.301707+00:00,10,10,6.0
+86,Keane,Lewis-Potter,Keane Lewis-Potter,Brentford,MID,2026-08-27 15:23:14.301707+00:00,10,10,5.5
+68,Marcus,Tavernier,Marcus Tavernier,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,10,10,6.0
+572,Konstantinos,Tzolakis,Konstantinos Tzolakis,Hull City,GKP,2026-08-27 15:23:14.301707+00:00,10,10,4.5
+327,Jaka,Bijol,Jaka Bijol,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,10,10,5.0
+454,Anthony,Elanga,Anthony Elanga,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,9,9,6.0
+98,Vitaly,Janelt,Vitaly Janelt,Brentford,MID,2026-08-27 15:23:14.301707+00:00,9,9,5.0
+544,Granit,Xhaka,Granit Xhaka,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,9,9,5.5
+391,Joško,Gvardiol,Joško Gvardiol,Man City,DEF,2026-08-27 15:23:14.301707+00:00,9,9,5.5
+8,Riccardo,Calafiori,Riccardo Calafiori,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,9,9,5.6
+237,Iliman,Ndiaye,Iliman Ndiaye,Everton,MID,2026-08-27 15:23:14.301707+00:00,9,9,6.0
+316,Emersonn,Correia da Silva,Emersonn Emersonn,Ipswich Town,FWD,2026-08-27 15:23:14.301707+00:00,9,9,5.5
+385,James,Trafford,James Trafford,Leeds,GKP,2026-08-27 15:23:14.301707+00:00,9,9,5.0
+12,Bukayo,Saka,Bukayo Saka,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,9,9,9.5
+249,Thierno,Barry,Thierno Barry,Everton,FWD,2026-08-27 15:23:14.301707+00:00,8,8,5.5
+87,Kristoffer,Ajer,Kristoffer Ajer,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,8,8,4.5
+399,Rayan,Cherki,Rayan Cherki,Man City,MID,2026-08-27 15:23:14.301707+00:00,8,8,7.5
+368,Dominik,Szoboszlai,Dominik Szoboszlai,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,8,8,7.0
+40,Morgan,Rogers,Morgan Rogers,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,8,8,7.5
+277,John,Egan,John Egan,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,8,8,4.0
+244,Harrison,Armstrong,Harrison Armstrong,Everton,MID,2026-08-27 15:23:14.301707+00:00,8,8,5.0
+226,Jordan,Pickford,Jordan Pickford,Everton,GKP,2026-08-27 15:23:14.301707+00:00,7,7,5.5
+82,Caoimhín,Kelleher,Caoimhín Kelleher,Brentford,GKP,2026-08-27 15:23:14.301707+00:00,7,7,5.0
+130,Mats,Wieffer,Mats Wieffer,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,7,7,5.0
+313,Jack,Clarke,Jack Clarke,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,7,7,5.5
+268,Josh,King,Josh King,Fulham,MID,2026-08-27 15:23:14.301707+00:00,7,7,5.5
+233,Vitalii,Mykolenko,Vitalii Mykolenko,Everton,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+84,Nathan,Collins,Nathan Collins,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,6,6,5.5
+229,James,Tarkowski,James Tarkowski,Everton,DEF,2026-08-27 15:23:14.301707+00:00,6,6,6.0
+282,Ryan,Giles,Ryan Giles,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.0
+230,Jarrad,Branthwaite,Jarrad Branthwaite,Everton,DEF,2026-08-27 15:23:14.301707+00:00,6,6,5.5
+97,Mathias,Jensen,Mathias Jensen,Brentford,MID,2026-08-27 15:23:14.301707+00:00,6,6,5.5
+290,Regan,Slater,Regan Slater,Hull City,MID,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+569,Gonzalo,García,Gonzalo Gonzalo,Fulham,FWD,2026-08-27 15:23:14.301707+00:00,6,6,6.0
+334,Tarik,Muharemović,Tarik Muharemović,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,6,6,5.0
+109,Bart,Verbruggen,Bart Verbruggen,Brighton,GKP,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+330,Jayden,Bogle,Jayden Bogle,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+114,Olivier,Boscagli,Olivier Boscagli,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+116,Lewis,Dunk,Lewis Dunk,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+127,Diego,Gómez Amarilla,Diego Gomez,Brighton,MID,2026-08-27 15:23:14.301707+00:00,6,6,5.0
+258,Timothy,Castagne,Timothy Castagne,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+280,Lewie,Coyle,Lewie Coyle,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.0
+504,Luka,Vušković,Luka Vuskovic,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,6,6,5.0
+460,Joe,Willock,Joe Willock,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,6,6,5.0
+329,Joe,Rodon,Joe Rodon,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,6,6,4.5
+200,Maxence,Lacroix,Maxence Lacroix,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,6,6,6.0
+1,David,Raya Martín,David Raya,Arsenal,GKP,2026-08-27 15:23:14.301707+00:00,6,6,6.0
+26,Kai,Havertz,Kai Havertz,Arsenal,FWD,2026-08-27 15:23:14.301707+00:00,6,6,7.5
+557,Christos,Tzolis,Christos Tzolis,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,6,6,6.5
+11,Cristhian,Mosquera,Cristhian Mosquera,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,6,6,5.5
+371,Ryan,Gravenberch,Ryan Gravenberch,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,5,5,6.0
+125,Georginio,Rutter,Georginio Georginio,Brighton,FWD,2026-08-27 15:23:14.301707+00:00,5,5,5.5
+473,Ola,Aina,Ola Aina,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,5,5,4.5
+295,Oli,McBurnie,Oli McBurnie,Hull City,FWD,2026-08-27 15:23:14.301707+00:00,5,5,5.5
+591,Julio,Enciso,Julio Enciso,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,5,5,5.5
+551,Nilson,Angulo,Nilson Angulo,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,5,5,5.0
+338,Ethan,Ampadu,Ethan Ampadu,Leeds,MID,2026-08-27 15:23:14.301707+00:00,5,5,5.5
+267,Saša,Lukić,Saša Lukić,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,5,5,5.0
+4,Gabriel,dos Santos Magalhães,Gabriel Gabriel,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,5,5,8.0
+472,Murillo,Costa dos Santos,Murillo Murillo,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,4,4,5.5
+210,Adam,Wharton,Adam Wharton,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,4,4,5.5
+464,Yoane,Wissa,Yoane Wissa,Newcastle,FWD,2026-08-27 15:23:14.301707+00:00,4,4,6.0
+309,Marcelino,Núñez,Marcelino Núñez,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,4,4,5.0
+465,William,Osula,William Osula,Newcastle,FWD,2026-08-27 15:23:14.301707+00:00,4,4,6.0
+377,Victor,Munoz,Victor Munoz,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,4,4,6.5
+304,Dara,O'Shea,Dara O'Shea,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,4,4,4.0
+79,Francisco Evanilson,de Lima Barbosa,Francisco Evanilson Evanilson,Bournemouth,FWD,2026-08-27 15:23:14.301707+00:00,4,4,6.0
+286,Mohamed,Belloumi,Mohamed Belloumi,Hull City,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+337,Brenden,Aaronson,Brenden Aaronson,Leeds,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+260,Harry,Wilson,Harry Wilson,Leeds,MID,2026-08-27 15:23:14.301707+00:00,3,3,6.5
+173,Bobby,Thomas,Bobby Thomas,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,3,3,4.0
+384,Gianluigi,Donnarumma,Gianluigi Donnarumma,Man City,GKP,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+94,Kevin,Schade,Kevin Schade,Brentford,MID,2026-08-27 15:23:14.301707+00:00,3,3,6.0
+95,Dango,Ouattara,Dango O.Dango,Brentford,MID,2026-08-27 15:23:14.301707+00:00,3,3,6.5
+151,Josh,Acheampong,Josh Acheampong,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,3,3,4.5
+483,Dan,Ndoye,Dan Ndoye,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+576,Elliot,Stroud,Elliot Stroud,Hull City,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+486,James,McAtee,James McAtee,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+255,Jorge,Cuenca Barreno,Jorge J.Cuenca,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,3,3,4.5
+449,Lewis,Hall,Lewis Hall,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+202,Chris,Richards,Chris Richards,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+498,Marcos,Senesi Barón,Marcos Senesi,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,3,3,6.0
+214,Daichi,Kamada,Daichi Kamada,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+459,Lewis,Miley,Lewis L.Miley,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+13,Declan,Rice,Declan Rice,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,3,3,7.5
+247,Hayden,Hackney,Hayden Hackney,Everton,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+246,Merlin,Röhl,Merlin Röhl,Everton,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+445,Malick,Thiaw,Malick Thiaw,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+7,Myles,Lewis-Skelly,Myles Lewis-Skelly,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+447,Sven,Botman,Sven Botman,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+502,Andrew,Robertson,Andrew Robertson,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,3,3,4.5
+242,Tyrique,George,Tyrique George,Everton,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.5
+71,Lewis,Cook,Lewis Cook,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,3,3,5.0
+70,Justin,Kluivert,Justin Kluivert,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,3,3,6.0
+562,Daizen,Maeda,Daizen Maeda,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+140,Robert,Lynch Sánchez,Robert Sánchez,Chelsea,GKP,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+564,Kjell,Scherpen,Kjell Scherpen,Ipswich Town,GKP,2026-08-27 15:23:14.301707+00:00,2,2,4.5
+356,Virgil,van Dijk,Virgil Virgil,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,2,2,6.5
+523,Mikey,Moore,Mikey Moore,Spurs,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+522,Archie,Gray,Archie Gray,Spurs,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+514,Mathys,Tel,Mathys Tel,Spurs,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+350,Alisson,Becker,Alisson A.Becker,Liverpool,GKP,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+315,Abdul,Fatawu,Abdul Fatawu,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+57,Đorđe,Petrović,Đorđe Petrović,Bournemouth,GKP,2026-08-27 15:23:14.301707+00:00,2,2,4.5
+527,Richarlison,de Andrade,Richarlison Richarlison,Spurs,FWD,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+265,Sander,Berge,Sander Berge,Fulham,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+241,Dwight,McNeil,Dwight McNeil,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+552,Brian,Brobbey,Brian Brobbey,Sunderland,FWD,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+198,Dean,Henderson,Dean Henderson,Crystal Palace,GKP,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+250,Bernd,Leno,Bernd Leno,Fulham,GKP,2026-08-27 15:23:14.301707+00:00,2,2,4.5
+195,Ellis,Simms,Ellis Simms,Coventry City,FWD,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+194,Brandon,Thomas-Asante,Brandon Thomas-Asante,Coventry City,FWD,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+261,Alex,Iwobi,Alex Iwobi,Fulham,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+190,Loum,Tchaouna,Loum Tchaouna,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+264,Oscar,Bobb,Oscar Bobb,Fulham,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+545,Noah,Sadiki,Noah Sadiki,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+306,Jacob,Greaves,Jacob Greaves,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,2,2,4.0
+184,Matt,Grimes,Matt Grimes,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+570,César,Palacios,César Palacios,Fulham,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+542,Enzo,Le Fée,Enzo E.Le Fée,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+496,Antonín,Kinský,Antonín Kinsky,Spurs,GKP,2026-08-27 15:23:14.301707+00:00,2,2,4.5
+289,Matt,Crooks,Matt Crooks,Hull City,MID,2026-08-27 15:23:14.301707+00:00,2,2,4.5
+104,Frank,Onyeka,Frank Onyeka,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+534,Trai,Hume,Trai Hume,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,2,2,4.5
+259,Issa,Diop,Issa Diop,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,2,2,4.0
+305,Leif,Davis,Leif Davis,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,2,2,4.0
+366,Florian,Wirtz,Florian Wirtz,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,2,2,7.5
+223,Jean-Philippe,Mateta,Jean-Philippe Mateta,Crystal Palace,FWD,2026-08-27 15:23:14.301707+00:00,2,2,6.5
+41,Emiliano,Buendía Stati,Emiliano Buendía,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+47,Boubacar,Kamara,Boubacar Kamara,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+491,Igor Jesus,Maciel da Cruz,Igor Jesus Igor Jesus,Nott'm Forest,FWD,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+51,George,Hemmings,George George Hemmings,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,2,2,4.5
+393,Abdukodir,Khusanov,Abdukodir Khusanov,Man City,DEF,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+397,Antoine,Semenyo,Antoine Semenyo,Man City,MID,2026-08-27 15:23:14.301707+00:00,2,2,8.5
+488,Ibrahim,Sangaré,Ibrahim I.Sangaré,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+411,Erling,Haaland,Erling Haaland,Man City,FWD,2026-08-27 15:23:14.301707+00:00,2,2,15.5
+481,Elliot,Anderson,Elliot Anderson,Man City,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.5
+43,Youri,Tielemans,Youri Tielemans,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+480,Morgan,Gibbs-White,Morgan Gibbs-White,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,2,2,8.0
+426,Bruno,Borges Fernandes,Bruno B.Fernandes,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,2,2,12.0
+427,Bryan,Mbeumo,Bryan Mbeumo,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,2,2,8.0
+428,Matheus,Santos Carneiro da Cunha,Matheus Cunha,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,2,2,8.0
+566,António João,Pereira de Albuquerque Tavares da Silva,António João Silva,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+453,Harvey,Barnes,Harvey Barnes,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+69,Alex,Scott,Alex Scott,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+471,Nikola,Milenković,Nikola Milenković,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+67,Rayan Vitor,Simplício Rocha,Rayan Vitor Rayan,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.5
+469,Neco,Williams,Neco N.Williams,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+467,Matz,Sels,Matz Sels,Nott'm Forest,GKP,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+390,Rúben,dos Santos Gato Alves Dias,Rúben Rúben,Man City,DEF,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+162,Andrey,Nascimento dos Santos,Andrey Andrey Santos,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+369,Rio,Ngumoha,Rio Ngumoha,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,2,2,6.0
+124,Pascal,Groß,Pascal Groß,Brighton,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+46,Ross,Barkley,Ross Barkley,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.0
+129,Yasin,Ayari,Yasin Ayari,Brighton,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+387,Nico,O'Reilly,Nico O'Reilly,Man City,DEF,2026-08-27 15:23:14.301707+00:00,2,2,6.5
+379,Alexander,Isak,Alexander Isak,Liverpool,FWD,2026-08-27 15:23:14.301707+00:00,2,2,9.0
+455,Sandro,Tonali,Sandro Tonali,Spurs,MID,2026-08-27 15:23:14.301707+00:00,2,2,5.5
+254,Antonee,Robinson,Antonee Robinson,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+432,Kobbie,Mainoo,Kobbie Mainoo,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+248,Norberto Bercique,Gomes Betuncal,Norberto Bercique Beto,Everton,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+429,Marcus,Rashford,Marcus Rashford,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,1,1,7.0
+593,Amar,Dedic,Amar Dedić,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+389,Matheus,Nunes,Matheus Matheus N.,Man City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+439,Benjamin,Sesko,Benjamin Šeško,Man Utd,FWD,2026-08-27 15:23:14.301707+00:00,1,1,7.0
+112,Jan Paul,van Hecke,Jan Paul Van Hecke,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+381,Lewis,Koumas,Lewis Koumas,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+548,Chris,Rigg,Chris Rigg,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+423,Luke,Shaw,Luke Shaw,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+422,Noussair,Mazraoui,Noussair Mazraoui,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+263,Kevin,Santos Lopes de Macedo,Kevin Kevin,Fulham,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+474,Jair,Paula da Cunha Filho,Jair Jair Cunha,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+435,Shea,Lacey,Shea Lacey,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+506,Destiny,Udogie,Destiny Udogie,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+446,Fabian,Schär,Fabian Schär,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+243,Carlos,Alcaraz Durán,Carlos Alcaraz,Everton,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+336,Noah,Okafor,Noah Okafor,Leeds,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+346,Dominic,Calvert-Lewin,Dominic Calvert-Lewin,Leeds,FWD,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+239,James,Garner,James Garner,Everton,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+549,Chemsdine,Talbi,Chemsdine Talbi,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+372,Alexis,Mac Allister,Alexis Mac Allister,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+462,Sean,Steur,Sean Steur,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+553,Wilson,Isidor,Wilson Isidor,Sunderland,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+209,Brennan,Johnson,Brennan Johnson,Everton,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+588,Anan,Khalaili,Anan Khalaili,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+559,Aladji,Bamba,Aladji Bamba,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+577,Takehiro,Tomiyasu,Takehiro Tomiyasu,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+567,Lukás,Hornícek,Lukás Horníček,Newcastle,GKP,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+224,Eddie,Nketiah,Eddie Nketiah,Crystal Palace,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+478,Luca,Netz,Luca Netz,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+421,Ayden,Heaven,Ayden Heaven,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+269,Ryan,Sessegnon,Ryan Sessegnon,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+592,Abdoul,Ouattara,Abdoul Ouattara,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+398,Phil,Foden,Phil Foden,Man City,MID,2026-08-27 15:23:14.301707+00:00,1,1,7.0
+529,Robin,Roefs,Robin Roefs,Sunderland,GKP,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+395,Rico,Lewis,Rico Lewis,Man City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+579,Ronald,Araujo,Ronald Araujo,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+490,Chris,Wood,Chris Wood,Nott'm Forest,FWD,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+238,Jack,Grealish,Jack Grealish,Man City,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.5
+526,Dominic,Solanke-Mitchell,Dominic Solanke,Spurs,FWD,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+520,Lucas,Bergvall,Lucas Bergvall,Spurs,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+493,Arnaud,Kalimuendo,Arnaud Kalimuendo,Nott'm Forest,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+222,Jørgen,Strand Larsen,Jørgen Strand Larsen,Crystal Palace,FWD,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+320,Chuba,Akpom,Chuba Akpom,Ipswich Town,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+321,Sindre,Walle Egeli,Sindre Walle Egeli,Ipswich Town,FWD,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+323,Kasey,McAteer,Kasey McAteer,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+558,Xaver,Schlager,Xaver Schlager,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+585,Lucas,Herrington,Lucas Herrington,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+406,Mateo,Kovačić,Mateo Kovačić,Man City,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+525,Mateus,Fernandes,Mateus Fernandes,Spurs,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+539,Luke,O'Nien,Luke O'Nien,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+271,Rodrigo,Muniz Carvalho,Rodrigo Muniz,Fulham,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+543,Habib,Diarra,Habib Diarra,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+418,Harry,Maguire,Harry Maguire,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+580,Shea,Charles,Shea Charles,Fulham,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+417,Diogo,Dalot Teixeira,Diogo Dalot,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+541,Thomas,Meunier,Thomas Meunier,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+536,Reinildo,Mandava,Reinildo Reinildo,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+556,Matt,Targett,Matt Targett,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+285,Paddy,McNair,Paddy McNair,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+412,Senne,Lammens,Senne Lammens,Man Utd,GKP,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+362,Jeremy,Jacquet,Jeremy Jacquet,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+535,Omar,Alderete,Omar Alderete,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+515,James,Maddison,James Maddison,Spurs,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.5
+516,Rodrigo,Bentancur,Rodrigo Bentancur,Spurs,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+339,Sean,Longstaff,Sean Longstaff,Leeds,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+281,Cody,Drameh,Cody Drameh,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+596,Matteo,Ruggeri,Matteo Ruggeri,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+29,Marco,Bizot,Marco M.Bizot,Aston Villa,GKP,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+42,Evann,Guessand,Evann Guessand,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+72,Ben,Gannon-Doak,Ben Gannon-Doak,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+584,Gustavo,Hamer,Gustavo Hamer,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+575,Caleb,Yirenkyi,Caleb Yirenkyi,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+492,Taiwo,Awoniyi,Taiwo Awoniyi,Coventry City,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+96,Mikkel,Damsgaard,Mikkel Damsgaard,Brentford,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+135,Zadok,Yohanna,Zadok Yohanna,Brighton,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+73,Tyler,Adams,Tyler Adams,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+138,Charalampos,Kostoulas,Charalampos Kostoulas,Brighton,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+160,Alejandro,Garnacho Ferreyra,Alejandro Garnacho,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+148,Jorrel,Hato,Jorrel Hato,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+608,Daniel,Jebbison,Daniel Jebbison,Bournemouth,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+605,Malick,Yalcouyé,Malick Yalcouyé,Brighton,MID,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+600,Ibrahim,Osman,Ibrahim Osman,Brighton,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+76,Alex,Tóth,Alex Tóth.A,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+188,Victor,Torp,Victor Torp,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+110,Carl,Rushworth,Carl Rushworth,Coventry City,GKP,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+33,Tyrone,Mings,Tyrone Mings,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+90,Aaron,Hickey,Aaron Hickey,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+35,Lamare,Bogarde,Lamare Bogarde,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+583,Pep,Chavarría,Pep Chavarria,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+183,Jack,Rudoni,Jack Rudoni,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+144,Malo,Gusto,Malo Gusto,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+182,Aurèle,Amenda,Aurèle Amenda,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+52,Alysson Edward Franco,da Rocha dos Santos,Alysson Edward Franco Alysson,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+108,Callum,Wilson,Callum Wilson,Brentford,FWD,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+64,Adam,Smith,Adam Smith,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+156,Pedro,Lomba Neto,Pedro Neto,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.5
+14,Eberechi,Eze,Eberechi Eze,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.5
+60,James,Hill,James Hill,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+157,Estêvão,Almeida de Oliveira Gonçalves,Estêvão Estêvão,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.5
+16,Noni,Madueke,Noni Madueke,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.5
+119,João Pedro,Loureiro da Costa,João Pedro Costinha,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+17,Mikel,Merino Zazón,Mikel Merino,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+211,Yéremy,Pino Santos,Yéremy Yeremy,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+203,Jaydee,Canvot,Jaydee Canvot,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+19,Martín,Zubimendi Ibáñez,Martín Zubimendi,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+164,Geovany,Quenda,Geovany Quenda,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+105,Jaidon,Anthony,Jaidon Anthony,Brentford,MID,2026-08-27 15:23:14.301707+00:00,1,1,6.0
+175,Milan,van Ewijk,Milan van Ewijk,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+102,Yehor,Yarmoliuk,Yehor Yarmoliuk,Brentford,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+161,Roméo,Lavia,Roméo Lavia,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.0
+206,Chadi,Riad Dnanou,Chadi Chadi Riad,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+45,John,McGinn,John McGinn,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+155,Enzo,Fernández,Enzo Enzo,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,1,1,7.0
+176,Jay,Dasilva,Jay Dasilva,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.0
+61,Adrien,Truffert,Adrien Truffert,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+204,Tyrick,Mitchell,Tyrick Mitchell,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,1,1,4.5
+9,Piero,Hincapié,Piero Hincapie,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,1,1,5.5
+437,Bendito,Mantato,Bendito Bendito Mantato,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+440,Joshua,Zirkzee,Joshua Zirkzee,Man Utd,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+436,Toby,Collyer,Toby Collyer,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+77,Amine,Adli,Amine Adli,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+438,Tyler,Fletcher,Tyler Fletcher,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+441,Chido,Obi,Chido Obi,Man Utd,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+450,Tino,Livramento,Tino Livramento,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+442,Nick,Pope,Nick Pope,Newcastle,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+443,Mark,Gillespie,Mark Gillespie,Newcastle,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+444,Ewen,Jaouen,Ewen Jaouen,Newcastle,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+75,Ryan,Christie,Ryan Christie,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+74,David,Brooks,David Brooks,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+448,Dan,Burn,Dan Burn,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+434,Jack,Fletcher,Jack J.Fletcher,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+451,Alex,Murphy,Alex A.Murphy,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+66,Julio,Soler Barreto,Julio Soler,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+456,Jacob,Ramsey,Jacob J.Ramsey,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+457,Jacob,Murphy,Jacob J.Murphy,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+458,Joelinton Cássio,Apolinário de Lira,Joelinton Cássio Joelinton,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+65,Julián,Araujo Zúñiga,Julián J.Araujo,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+461,Bazoumana,Touré,Bazoumana Touré,Newcastle,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+78,Junior,Kroupi,Junior Kroupi.Jr,Bournemouth,MID,2026-08-27 15:23:14.301707+00:00,0,0,7.5
+85,Sepp,van den Berg,Sepp Van den Berg,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+433,Manuel,Ugarte Ribeiro,Manuel Ugarte,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+93,Jannik,Schuster,Jannik Schuster,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+616,Ayyoub,Bouaddi,Ayyoub Bouaddi,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+587,Gerónimo,Rulli,Gerónimo Rulli,Man City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+99,Antoni,Milambo,Antoni Milambo,Brentford,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+100,Fábio,Freitas Gouveia Carvalho,Fábio Carvalho,Brentford,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+410,Jeremy,Monga,Jeremy Monga,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+409,Divine,Mukasa,Divine Mukasa,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+408,Kalvin,Phillips,Kalvin Phillips,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+407,Claudio,Echeverri,Claudio Echeverri,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+405,Nico,González Iglesias,Nico N.Gonzalez,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+404,Tijjani,Reijnders,Tijjani Reijnders,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+402,Rodrigo 'Rodri',Hernandez Cascante,Rodrigo 'Rodri' Rodrigo,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.5
+401,Omar,Marmoush,Omar Marmoush,Man City,FWD,2026-08-27 15:23:14.301707+00:00,0,0,7.0
+400,Jérémy,Doku,Jérémy Doku,Man City,MID,2026-08-27 15:23:14.301707+00:00,0,0,7.5
+103,Josh,Dasilva,Josh Dasilva,Brentford,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+106,Igor Thiago,Nascimento Rodrigues,Igor Thiago Thiago,Brentford,FWD,2026-08-27 15:23:14.301707+00:00,0,0,8.0
+396,Vitor,de Oliveira Nunes dos Reis,Vitor Vitor Reis,Man City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+107,Kaye,Furo,Kaye Furo,Brentford,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+131,Carlos,Baleba,Carlos Baleba,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+325,Karl,Darlow,Karl Darlow,Man Utd,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+80,Enes,Ünal,Enes Enes Ünal,Bournemouth,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+92,Kim,Ji-soo,Kim Ji-soo,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+431,Amad,Diallo,Amad Amad,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.9
+430,Mason,Mount,Mason Mount,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+81,Álvaro,Rodríguez,Álvaro Rodríguez,Bournemouth,FWD,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+573,Juanlu,Sánchez,Juanlu Sanchez,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+615,Michele,Di Gregorio,Michele Di Gregorio,Bournemouth,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+425,Tyler,Fredricson,Tyler Fredricson,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+424,Harry,Amass,Harry Amass,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+83,Hákon Rafn,Valdimarsson,Hákon Rafn Valdimarsson,Brentford,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+463,Nick,Woltemade,Nick Woltemade,Newcastle,FWD,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+89,Rico,Henry,Rico Henry,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+420,Leny,Yoro,Leny Yoro,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+419,Lisandro,Martínez,Lisandro Martinez,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+91,Ethan,Pinnock,Ethan Pinnock,Brentford,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+416,Matthijs,de Ligt,Matthijs De Ligt,Man Utd,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+415,Patrick,Dorgu,Patrick Dorgu,Man Utd,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+414,Tom,Heaton,Tom Heaton,Man Utd,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+413,Altay,Bayındır,Altay Bayindir,Man Utd,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+63,Veljko,Milosavljevic,Veljko Milosavljević,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+220,Rio,Cardines,Rio Cardines,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+62,Bafodé,Diakité,Bafodé Diakité,Bournemouth,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+530,Anthony,Patterson,Anthony Patterson,Sunderland,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+601,Luca,Williams-Barnett,Luca Williams-Barnett,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+528,Dane,Scarlett,Dane Scarlett,Spurs,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+31,Ezri,Konsa Ngoyo,Ezri Konsa,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+452,Bruno,Guimarães Rodriguez Moura,Bruno Bruno G.,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,0,0,7.0
+28,Emiliano,Martínez Romero,Emiliano Martinez,Aston Villa,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+524,Callum,Olusesi,Callum Olusesi,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+30,Lucas,Digne,Lucas Digne,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+521,Dejan,Kulusevski,Dejan Kulusevski,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.5
+519,Conor,Gallagher,Conor Gallagher,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+518,Pape Matar,Sarr,Pape Matar P.M.Sarr,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+517,Wilson,Odobert,Wilson Odobert,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+34,Pau,Torres,Pau Pau,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+513,Xavi,Simons,Xavi Xavi,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+512,Mohammed,Kudus,Mohammed Kudus,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.5
+511,João Victor,de Souza Menezes,João Victor Souza,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+510,James,Rowswell,James Rowswell,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+509,Jun'ai,Byfield,Jun'ai Byfield,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+27,Gabriel,Fernando de Jesus,Gabriel G.Jesus,Arsenal,FWD,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+531,Melker,Ellborg,Melker Ellborg,Sunderland,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+507,Ashley,Phillips,Ashley Phillips,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+532,Daniel,Ballard,Daniel Ballard,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+612,Dayann,Méthalie,Dayann Methalie,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+3,Illan,Meslier,Illan Meslier,Arsenal,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+5,Jurriën,Timber,Jurriën J.Timber,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,0,0,6.5
+6,William,Saliba,William Saliba,Arsenal,DEF,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+550,Djiamgone Jocelin Ta,Bi,Djiamgone Jocelin Ta Jocelin.T,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+547,Romaine,Mundle,Romaine Mundle,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+546,Simon,Adingra,Simon Adingra,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+18,Gabriel,Martinelli Silva,Gabriel Martinelli,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.4
+20,Max,Dowman,Max Dowman,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.4
+540,Arthur,Masuaku,Arthur Masuaku,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+22,Ethan,Nwaneri,Ethan Nwaneri,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+538,Leo Fuhr,Hjelde,Leo Fuhr Hjelde,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+537,Jenson,Seelt,Jenson Seelt,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+23,Fábio,Ferreira Vieira,Fábio Fábio Vieira,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+24,Reiss,Nelson,Reiss Nelson,Arsenal,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+25,Viktor,Gyökeres,Viktor Gyökeres,Arsenal,FWD,2026-08-27 15:23:14.301707+00:00,0,0,7.4
+533,Nordi,Mukiele,Nordi Mukiele,Sunderland,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+508,Ben,Davies,Ben Davies,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+36,Ian,Maatsen,Ian Maatsen,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+466,Sean,Neave,Sean Neave,Newcastle,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+485,Dilane,Bakwa,Dilane Bakwa,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+55,Ollie,Watkins,Ollie Watkins,Aston Villa,FWD,2026-08-27 15:23:14.301707+00:00,0,0,7.9
+482,Callum,Hudson-Odoi,Callum Hudson-Odoi,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+56,Tammy,Abraham,Tammy Abraham,Aston Villa,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+479,Tyler,Bindon,Tyler Bindon,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+477,Zach,Abbott,Zach Abbott,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+476,Omar,Richards,Omar O.Richards,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+475,Nicolò,Savona,Nicolò Savona,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+582,Brian,Madjo,Brian Madjo,Aston Villa,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+597,Zion,Suzuki,Zion Suzuki,Aston Villa,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+606,Triston,Rowe,Triston Rowe,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+470,Felipe,Rodrigues da Silva,Felipe Morato,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+607,Luka,Lynch,Luka Lynch,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+468,John Victor,Maciel Furtado,John Victor John,Nott'm Forest,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+611,Aaron,Wan-Bissaka,Aaron Wan-Bissaka,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+609,Leo,Shahar,Leo Shahar,Newcastle,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+58,Fraser,Forster,Fraser Forster,Bournemouth,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+59,Will,Dennis,Will Dennis,Bournemouth,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+484,Omari,Hutchinson,Omari Hutchinson,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+487,Nicolás,Domínguez,Nicolás Dominguez,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+505,Djed,Spence,Djed Spence,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+53,Johan,Manzambi,Johan Manzambi,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+503,Micky,van de Ven,Micky Van de Ven,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+501,Kevin,Danso,Kevin Danso,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+500,Cristian,Romero,Cristian Romero,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+499,Pedro,Porro Sauceda,Pedro Pedro Porro,Spurs,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+38,Andrés,García,Andrés A.García,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+497,Martin,Dubravka,Martin Dubravka,Spurs,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+39,Kosta,Nedeljkovic,Kosta Nedeljkovic,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+495,Brandon,Austin,Brandon Austin,Spurs,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+494,Guglielmo,Vicario,Guglielmo Vicario,Spurs,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+44,Leon,Bailey,Leon Bailey,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+403,Sávio,Moreira de Oliveira,Sávio Sávio,Spurs,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.5
+590,Steven,Benda,Steven Benda,Nott'm Forest,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+581,Ousmane,Diomande,Ousmane Diomande,Nott'm Forest,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+48,Amadou,Onana,Amadou Onana,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+49,Samuel,Iling-Junior,Samuel Iling Jr,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+50,Bradley,Burrowes,Bradley Burrowes,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+489,Ryan,Yates,Ryan Yates,Nott'm Forest,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+394,Max,Alleyne,Max Alleyne,Man City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+126,Matt,O'Riley,Matt O'Riley,Brighton,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+392,Rayan,Aït-Nouri,Rayan Aït-Nouri,Man City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+178,Jake,Bidwell,Jake Bidwell,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+172,Ben,Wilson,Ben Wilson,Coventry City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+288,Kieran,Dowell,Kieran Dowell,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+287,Liam,Millar,Liam Millar,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+174,Liam,Kitching,Liam Kitching,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+284,Cathal,McCarthy,Cathal McCarthy,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+283,Matty,Jacob,Matty Jacob,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+2,Kepa,Arrizabalaga Revuelta,Kepa Arrizabalaga,Arsenal,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+177,Kaine,Kesler-Hayden,Kaine Kesler-Hayden,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+278,Charlie,Hughes,Charlie Hughes,Hull City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+291,Eliot,Matazo,Eliot Matazo,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+179,Joel,Latibeaudiere,Joel Latibeaudiere,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+276,Thimothée,Lo-Tutala,Thimothée Lo-Tutala,Hull City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+275,Harvey,Cartwright,Harvey Cartwright,Hull City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+274,Jack,Butland,Jack Butland,Hull City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+273,Dillon,Phillips,Dillon Phillips,Hull City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+610,Luc,De Fougerolles,Luc De Fougerolles,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+180,Luke,Woolfenden,Luke Woolfenden,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+181,Miguel,Brau,Miguel Brau,Coventry City,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+171,Oliver,Dovin,Oliver Dovin,Coventry City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+292,Abdülkadir,Ömür,Abdülkadir Ömür,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+168,Marc,Guiu Paz,Marc Marc Guiu,Chelsea,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+568,Valentín,Barco,Valentín Barco,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+302,David,Button,David Button,Ipswich Town,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+301,Alex,Palmer,Alex Palmer,Ipswich Town,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+300,Christian,Walton,Christian Walton,Ipswich Town,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+169,Shumaira,Mheuka,Shumaira Mheuka,Chelsea,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+170,Emmanuel,Emegha,Emmanuel Emegha,Chelsea,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+589,Lucas,Gourna-Douath,Lucas Gourna-Douath,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+560,Mike,Penders,Mike Penders,Chelsea,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+561,Aaron,Anselmino,Aaron Anselmino,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+574,Jens,Hjertø-Dahl,Jens Hjertø-Dahl,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+293,Abu,Kamara,Abu Kamara,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+578,Mykhailo,Mudryk,Mykhailo Mudryk,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+563,Hidemasa,Morita,Hidemasa Morita,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+340,Joe,Gelhardt,Joe Gelhardt,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+299,Mason,Burstow,Mason Burstow,Hull City,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+298,Enis,Destan,Enis Destan,Hull City,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+297,Darko,Gyabi,Darko Gyabi,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+296,David,Akintola,David Akintola,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+294,Óscar,Zambrano,Óscar Zambrano,Hull City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+272,Jonah,Kusi-Asare,Jonah Kusi-Asare,Fulham,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+270,Harrison,Reed,Harrison Reed,Fulham,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+185,Tatsuhiro,Sakamoto,Tatsuhiro Sakamoto,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+21,Christian,Nørgaard,Christian Nørgaard,Everton,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+234,Nathan,Patterson,Nathan Patterson,Everton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+232,Jake,O'Brien,Jake O'Brien,Everton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+231,Michael,Keane,Michael Keane,Everton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+207,Oscar,Mingueza,Oscar Mingueza,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+208,Ismaïla,Sarr,Ismaïla Sarr,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.5
+228,Tom,King,Tom King,Everton,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+227,Mark,Travers,Mark Travers,Everton,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+212,Will,Hughes,Will Hughes,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+595,Zavier,Gozo,Zavier Gozo,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+186,Ephron,Mason-Clark,Ephron Mason-Clark,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+213,Jefferson,Lerma Solís,Jefferson Lerma,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+215,Justin,Devenny,Justin Devenny,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+555,Remi,Matthews,Remi Matthews,Crystal Palace,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+216,Romain,Esse,Romain Esse,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+225,Christantus,Uche,Christantus Uche,Crystal Palace,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+217,Matheus,França de Oliveira,Matheus M.França,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+218,Cheick,Doucouré,Cheick Doucouré,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+219,Jesurun,Rak-Sakyi,Jesurun J.Rak-Sakyi,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+235,Adam,Aznou,Adam Aznou,Everton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+205,Borna,Sosa,Borna Sosa,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+240,Tim,Iroegbunam,Tim Iroegbunam,Everton,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+201,Daniel,Muñoz Mejía,Daniel Muñoz,Crystal Palace,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+266,Tom,Cairney,Tom Cairney,Fulham,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+187,Josh,Eccles,Josh Eccles,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+189,George,Shepherd,George Shepherd,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+262,Emile,Smith Rowe,Emile Smith Rowe,Fulham,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+191,Raphael,Borges Rodrigues,Raphael Borges Rodrigues,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+192,Kai,Andrews,Kai Andrews,Coventry City,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+257,Calvin,Bassey,Calvin Bassey,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+256,Kenny,Tete,Kenny Tete,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+193,Haji,Wright,Haji Wright,Coventry City,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+196,Jahnoah,Markelo,Jahnoah Markelo,Coventry City,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+253,Joachim,Andersen,Joachim Andersen,Fulham,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+252,Alfie,McNally,Alfie McNally,Fulham,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+251,Benjamin,Lecomte,Benjamin Lecomte,Fulham,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+197,Norman,Bassette,Norman Bassette,Coventry City,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+599,Sidiki,Cherif,Sidiki Cherif,Coventry City,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+245,Tyler,Dibling,Tyler Dibling,Everton,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+199,Walter,Benítez,Walter Benitez,Crystal Palace,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+111,Jason,Steele,Jason Steele,Brighton,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+303,Cédric,Kipré,Cédric Kipré,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+167,Liam,Delap,Liam Delap,Chelsea,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+358,Milos,Kerkez,Milos Kerkez,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+139,Evan,Ferguson,Evan Ferguson,Brighton,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+365,Calvin,Ramsay,Calvin Ramsay,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+364,Kostas,Tsimikas,Kostas Tsimikas,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+363,Giovanni,Leoni,Giovanni Leoni,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+328,Pascal,Struijk,Pascal Struijk,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+361,Wellity,Lucky,Wellity Lucky,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+360,Conor,Bradley,Conor Bradley,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+359,Joe,Gomez,Joe Gomez,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+357,Jeremie,Frimpong,Jeremie Frimpong,Liverpool,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+370,Federico,Chiesa,Federico Chiesa,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+594,Promise,David,Promise David,Brighton,FWD,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+355,Harvey,Davies,Harvey Davies,Liverpool,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+354,Vitezslav,Jaros,Vitezslav Jaros,Liverpool,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+353,Armin,Pecsi,Armin Pecsi,Liverpool,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+352,Freddie,Woodman,Freddie Woodman,Liverpool,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+351,Giorgi,Mamardashvili,Giorgi Mamardashvili,Liverpool,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+604,Alfie,Cresswell,Alfie Cresswell,Leeds,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+603,Jayden,Lienou,Jayden Lienou,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+137,Stefanos,Tzimas,Stefanos Tzimas,Brighton,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+134,Nehemiah,Oriola,Nehemiah Oriola,Brighton,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+166,Nicolas,Jackson,Nicolas N.Jackson,Chelsea,FWD,2026-08-27 15:23:14.301707+00:00,0,0,6.5
+382,Jayden,Danns,Jayden Danns,Liverpool,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+113,Ferdi,Kadıoğlu,Ferdi F.Kadıoğlu,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+117,Diego,Coppola,Diego Coppola,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+118,Igor Julio,dos Santos de Paulo,Igor Julio Igor,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+386,Marcus,Bettinelli,Marcus Bettinelli,Man City,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+120,Michael,Svoboda,Michael Svoboda,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+121,Mitoma,Kaoru,Mitoma Mitoma,Brighton,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+122,Yankuba,Minteh,Yankuba Minteh,Brighton,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+383,Harvey,Elliott,Harvey Elliott,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+221,Joél,Drakes-Thomas,Joél Drakes-Thomas,Crystal Palace,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+133,Tom,Watson,Tom Watson,Brighton,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+380,Hugo,Ekitiké,Hugo Ekitiké,Liverpool,FWD,2026-08-27 15:23:14.301707+00:00,0,0,7.5
+128,Facundo,Buonanotte,Facundo Buonanotte,Brighton,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+378,James,McConnell,James McConnell,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+132,Harry,Howell,Harry Howell,Brighton,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+376,Stefan,Bajčetić Maquieira,Stefan Bajcetic,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+375,Trey,Nyoni,Trey Nyoni,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+374,Endo,Wataru,Endo Endo,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+373,Curtis,Jones,Curtis C.Jones,Liverpool,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+598,Nico,Elvedi,Nico Elvedi,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+349,Mateo,Joseph Fernández-Regatillo,Mateo Mateo Joseph,Leeds,FWD,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+348,Joël,Piroe,Joël Piroe,Leeds,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+318,Jaden,Philogene,Jaden Philogene,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+152,Marco,Palestra,Marco Palestra,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+571,Florentino Ibrain,Morris Luís,Florentino Ibrain Florentino,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+153,Axel,Disasi,Axel Disasi,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+554,Kayne,van Oevelen,Kayne Van Oevelen,Ipswich Town,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+324,Anis,Mehmeti,Anis Mehmeti,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+322,Ali,Al-Hamadi,Ali Al-Hamadi,Ipswich Town,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+158,Jamie,Bynoe-Gittens,Jamie Gittens,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+319,Sam,Szmodics,Sam Szmodics,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+317,George,Hirst,George Hirst,Ipswich Town,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+347,Lukas,Nmecha,Lukas Nmecha,Leeds,FWD,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+159,Moisés,Caicedo Corozo,Moisés Caicedo,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+314,Chiedozie,Ogbene,Chiedozie Ogbene,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+163,Dário,Luís Essugo,Dário D.Essugo,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+312,Jack,Taylor,Jack Taylor,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+311,Wes,Burns,Wes Burns,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+310,Azor,Matusiwa,Azor Matusiwa,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+308,Darnell,Furlong,Darnell Furlong,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+307,Ben,Johnson,Ben Johnson,Ipswich Town,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.0
+150,Mamadou,Sarr,Mamadou M.Sarr,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+602,Cameron,Humphreys,Cameron Humphreys,Ipswich Town,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+149,Levi,Samuels Colwill,Levi Colwill,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+141,Filip,Jörgensen,Filip Jörgensen,Chelsea,GKP,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+614,Jaouen,Hadjam,Jaouen Hadjam,Brighton,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+345,Tanaka,Ao,Tanaka Tanaka,Leeds,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+344,Ilia,Gruev,Ilia Gruev,Leeds,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+343,Daniel,James,Daniel James,Leeds,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+342,Jack,Harrison,Jack Harrison,Leeds,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+341,Wilfried,Gnonto,Wilfried Gnonto,Leeds,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+101,Jordan,Henderson,Jordan Henderson,Chelsea,MID,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+326,Lucas Estella,Perri,Lucas Estella Perri,Leeds,GKP,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+136,Danny,Welbeck,Danny Welbeck,Chelsea,FWD,2026-08-27 15:23:14.301707+00:00,0,0,6.0
+142,Reece,James,Reece James,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+143,Trevoh,Chalobah,Trevoh Chalobah,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.5
+333,Sebastiaan,Bornauw,Sebastiaan Bornauw,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+145,Wesley,Fofana,Wesley Fofana,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,5.0
+331,Gabriel,Gudmundsson,Gabriel Gudmundsson,Leeds,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+146,Benoît,Badiashile Mukinayi,Benoît B.Badiashile,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+147,Tosin,Adarabioyo,Tosin Tosin,Chelsea,DEF,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+613,Jules,Ahoka,Jules Ahoka,Sunderland,MID,2026-08-27 15:23:14.301707+00:00,0,0,4.5
+32,Matty,Cash,Matty Cash,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,-1,-1,4.5
+54,Joao,Gomes,Joao Gomes,Aston Villa,MID,2026-08-27 15:23:14.301707+00:00,-2,-2,5.5
+37,Victor,Lindelöf,Victor Lindelöf,Aston Villa,DEF,2026-08-27 15:23:14.301707+00:00,-2,-2,4.5
