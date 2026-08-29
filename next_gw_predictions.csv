@@ -1,302 +1,340 @@
-web_name,pos_name,now_cost,predicted_next_points
-Bogle,DEF,45,5.613618
-Justin,DEF,45,5.613618
-Longstaff,MID,50,5.613618
-Ampadu,MID,55,5.613618
-Aaronson,MID,55,5.613618
-Okafor,MID,60,5.613618
-Stach,MID,60,5.613618
-Muharemović,DEF,50,5.613618
-Calvert-Lewin,FWD,60,5.613618
-Trafford,GKP,50,5.613618
-Bijol,DEF,50,5.613618
-Wilson,MID,65,5.613618
-Rodon,DEF,45,5.613618
-Targett,DEF,40,5.3087935
-Egan,DEF,40,5.3087935
-Herrington,DEF,40,5.3087935
-Stroud,MID,50,5.3087935
-Tzolakis,GKP,45,5.3087935
-Slater,MID,45,5.3087935
-Belloumi,MID,50,5.3087935
-Millar,MID,50,5.3087935
-Crooks,MID,45,5.3087935
-McBurnie,FWD,55,5.3087935
-Ajayi,DEF,40,5.3087935
-Coyle,DEF,40,5.3087935
-Giles,DEF,40,5.3087935
-Mendy,DEF,40,5.3087935
-McNair,DEF,40,5.3087935
-Jensen,MID,55,5.1868525
-Ajer,DEF,45,5.1868525
-O.Dango,MID,65,5.1868525
-Schade,MID,60,5.1868525
-Hickey,DEF,45,5.1868525
-Janelt,MID,50,5.1868525
-Collins,DEF,55,5.1868525
-Lewis-Potter,MID,55,5.1868525
-Anthony,MID,60,5.1868525
-Damsgaard,MID,55,5.1868525
-Wilson,FWD,55,5.1868525
-Kelleher,GKP,50,5.1868525
-M.Sangaré,MID,56,5.1868525
-Kayode,DEF,46,5.1868525
-Yarmoliuk,MID,50,5.1868525
-Thiago,FWD,80,5.1868525
-Gomez,MID,50,4.9742923
-Yohanna,MID,50,4.9742923
-Kostoulas,FWD,55,4.9742923
-Ayari,MID,55,4.9742923
-Wieffer,DEF,50,4.9742923
-Groß,MID,55,4.9742923
-Costinha,DEF,45,4.9742923
-Dunk,DEF,45,4.9742923
-De Cuyper,DEF,46,4.9742923
-Osman,MID,50,4.9742923
-Yalcouyé,MID,45,4.9742923
-Georginio,FWD,55,4.9742923
-Hinshelwood,MID,60,4.9742923
-Verbruggen,GKP,45,4.9742923
-Boscagli,DEF,45,4.9742923
-Tzolis,MID,65,4.8518205
-Ødegaard,MID,66,4.8518205
-Hincapie,DEF,54,4.8518205
-Eze,MID,65,4.8518205
-Mosquera,DEF,55,4.8518205
-Saka,MID,95,4.8518205
-Raya,GKP,60,4.8518205
-Gabriel,DEF,80,4.8518205
-Lewis-Skelly,MID,55,4.8518205
-Calafiori,DEF,56,4.8518205
-Rice,MID,75,4.8518205
-White,DEF,55,4.8518205
-Barry,FWD,55,4.8518205
-Hackney,MID,55,4.8518205
-Beto,FWD,55,4.8518205
-Garner,MID,60,4.8518205
-George,MID,55,4.8518205
-Alcaraz,MID,50,4.8518205
-Armstrong,MID,50,4.8518205
-Röhl,MID,50,4.8518205
-Ndiaye,MID,60,4.8518205
-Mykolenko,DEF,45,4.8518205
-Dewsbury-Hall,MID,65,4.8518205
-Madueke,MID,64,4.8518205
-Johnson,MID,60,4.8518205
-Pickford,GKP,55,4.8518205
-Tarkowski,DEF,60,4.8518205
-Branthwaite,DEF,55,4.8518205
-Havertz,FWD,75,4.8518205
-Zubimendi,MID,55,4.8518205
-Merino,MID,60,4.8518205
-Diop,DEF,40,3.1963508
-Ouattara,DEF,40,3.1963508
-Enciso,MID,55,3.1963508
-Lukić,MID,50,3.1963508
-Greaves,DEF,40,3.1963508
-Davis,DEF,40,3.1963508
-O'Shea,DEF,40,3.1963508
-Núñez,MID,50,3.1963508
-Emersonn,FWD,55,3.1963508
-Fatawu,MID,55,3.1963508
-Clarke,MID,55,3.1963508
-Akpom,FWD,50,3.1963508
-Scherpen,GKP,45,3.1963508
-McAteer,MID,45,3.1963508
-Walle Egeli,FWD,45,3.1963508
-Cherki,MID,75,3.147604
-Grealish,MID,65,3.147604
-Khusanov,DEF,55,3.147604
-Gvardiol,DEF,55,3.147604
-Foden,MID,70,3.147604
-Matheus N.,DEF,60,3.147604
-Guéhi,DEF,60,3.147604
-O'Reilly,DEF,65,3.147604
-Rúben,DEF,55,3.147604
-Lewis,DEF,45,3.147604
-Semenyo,MID,85,3.147604
-Haaland,FWD,155,3.147604
-Donnarumma,GKP,55,3.147604
-Kovačić,MID,55,3.147604
-Anderson,MID,64,3.147604
-Estêvão,MID,65,3.1069176
-Lavia,MID,50,3.1069176
-Quenda,MID,55,3.1069176
-Gusto,DEF,50,3.1069176
-Colwill,DEF,50,3.1069176
-João Pedro,FWD,76,3.1069176
-Enzo,MID,70,3.1069176
-Neto,MID,65,3.1069176
-Acheampong,DEF,45,3.1069176
-James,DEF,55,3.1069176
-Sánchez,GKP,50,3.1069176
-Chavarria,DEF,50,3.1069176
-Palmer,MID,95,3.1069176
-Hato,DEF,45,3.1069176
-Rogers,MID,75,3.1069176
-Lacroix,DEF,60,3.1069176
-Wirtz,MID,75,3.0158207
-Gravenberch,MID,60,3.0158207
-Mac Allister,MID,55,3.0158207
-Araujo,DEF,55,3.0158207
-Virgil,DEF,65,3.0158207
-Frimpong,DEF,55,3.0158207
-Kerkez,DEF,55,3.0158207
-Isak,FWD,90,3.0158207
-Gakpo,MID,70,3.0158207
-Szoboszlai,MID,70,3.0158207
-Ngumoha,MID,60,3.0158207
-A.Becker,GKP,55,3.0158207
-Koumas,MID,50,3.0158207
-Munoz,MID,65,3.0158207
-Leno,GKP,45,2.6468651
-Castagne,DEF,45,2.6468651
-Berge,MID,50,2.6468651
-Bobb,MID,55,2.6468651
-King,MID,55,2.6468651
-J.Cuenca,DEF,45,2.6468651
-Bassey,DEF,45,2.6468651
-Kevin,MID,55,2.6468651
-Muniz,FWD,55,2.6468651
-Sessegnon,DEF,45,2.6468651
-Robinson,DEF,45,2.6468651
-Gonzalo,FWD,60,2.6468651
-Palacios,MID,55,2.6468651
-Iwobi,MID,55,2.6468651
-Charles,MID,50,2.6468651
-J.Ramsey,MID,50,2.6435122
-J.Murphy,MID,60,2.6435122
-Thiaw,DEF,50,2.6435122
-Schär,DEF,50,2.6435122
-Dedić,DEF,45,2.6435122
-Hall,DEF,50,2.6435122
-L.Miley,MID,55,2.6435122
-Willock,MID,50,2.6435122
-Barnes,MID,60,2.6435122
-Bamba,MID,50,2.6435122
-Horníček,GKP,50,2.6435122
-Botman,DEF,50,2.6435122
-Elanga,MID,60,2.6435122
-Osula,FWD,60,2.6435122
-Steur,MID,50,2.6435122
-Wissa,FWD,60,2.6435122
-Rayan,MID,65,2.3028705
-Tavernier,MID,60,2.3028705
-Adams,MID,50,2.3028705
-Cook,MID,50,2.3028705
-Gannon-Doak,MID,50,2.3028705
-Hill,DEF,55,2.3028705
-Petrović,GKP,45,2.3028705
-Truffert,DEF,55,2.3028705
-Evanilson,FWD,60,2.3028705
-Jebbison,FWD,50,2.3028705
-Silva,DEF,50,2.3028705
-Kluivert,MID,60,2.3028705
-Scott,MID,60,2.3028705
-Tóth.A,MID,50,2.3028705
-Smith,DEF,45,2.3028705
-Sels,GKP,50,2.2864392
-Wood,FWD,60,2.2864392
-Igor Jesus,FWD,60,2.2864392
-Kalimuendo,FWD,55,2.2864392
-N.Williams,DEF,50,2.2864392
-Milenković,DEF,55,2.2864392
-Aina,DEF,45,2.2864392
-Netz,DEF,45,2.2864392
-Jair Cunha,DEF,45,2.2864392
-I.Sangaré,MID,50,2.2864392
-Ndoye,MID,55,2.2864392
-McAtee,MID,55,2.2864392
-Schlager,MID,50,2.2864392
-Gibbs-White,MID,80,2.2864392
-Murillo,DEF,55,2.2864392
-O'Nien,DEF,40,1.9780754
-Hume,DEF,45,1.9780754
-Rigg,MID,50,1.9780754
-Sadiki,MID,50,1.9780754
-Isidor,FWD,55,1.9780754
-Alderete,DEF,50,1.9780754
-Roefs,GKP,50,1.9780754
-E.Le Fée,MID,60,1.9780754
-Diarra,MID,55,1.9780754
-Reinildo,DEF,45,1.9780754
-Angulo,MID,50,1.9780754
-Talbi,MID,55,1.9780754
-Ballard,DEF,50,1.9780754
-Brobbey,FWD,60,1.9780754
-Xhaka,MID,55,1.9780754
-Maddison,MID,65,1.6051474
-Bentancur,MID,55,1.6051474
-Richarlison,FWD,60,1.6051474
-Robertson,DEF,45,1.6051474
-Tel,MID,60,1.6051474
-Van Hecke,DEF,50,1.6051474
-Solanke,FWD,60,1.6051474
-Bergvall,MID,55,1.6051474
-Gray,MID,50,1.6051474
-Moore,MID,50,1.6051474
-Gallagher,MID,55,1.6051474
-Senesi,DEF,60,1.6051474
-Fernandes,MID,60,1.6051474
-Udogie,DEF,45,1.6051474
-Kinsky,GKP,45,1.6051474
-Tonali,MID,55,1.6051474
-Yirenkyi,MID,50,1.5874313
-Grimes,MID,50,1.5874313
-Amenda,DEF,40,1.5874313
-Torp,MID,55,1.5874313
-Rudoni,MID,50,1.5874313
-Hamer,MID,55,1.5874313
-van Ewijk,DEF,40,1.5874313
-Dasilva,DEF,40,1.5874313
-Rushworth,GKP,45,1.5874313
-Thomas,DEF,40,1.5874313
-Awoniyi,FWD,55,1.5874313
-Tchaouna,MID,55,1.5874313
-Thomas-Asante,FWD,50,1.5874313
-Simms,FWD,50,1.5874313
-Onyeka,MID,50,1.5874313
-Nketiah,FWD,55,1.5658675
-Mateta,FWD,65,1.5658675
-Mitchell,DEF,45,1.5658675
-Tomiyasu,DEF,45,1.5658675
-Chadi Riad,DEF,45,1.5658675
-Wharton,MID,55,1.5658675
-McNeil,MID,55,1.5658675
-Yeremy,MID,55,1.5658675
-Khalaili,DEF,50,1.5658675
-Richards,DEF,50,1.5658675
-Muñoz,DEF,55,1.5658675
-Henderson,GKP,50,1.5658675
-Strand Larsen,FWD,60,1.5658675
-Canvot,DEF,50,1.5658675
-B.Fernandes,MID,120,1.3723859
-Shaw,DEF,45,1.3723859
-Heaven,DEF,45,1.3723859
-Mazraoui,DEF,45,1.3723859
-Lammens,GKP,50,1.3723859
-Dorgu,MID,60,1.3723859
-Mainoo,MID,55,1.3723859
-Rashford,MID,70,1.3723859
-Mbeumo,MID,80,1.3723859
-Cunha,MID,80,1.3723859
-Tielemans,MID,60,1.3723859
-Andrey Santos,MID,50,1.3723859
-Dalot,DEF,50,1.3723859
-Maguire,DEF,50,1.3723859
-Šeško,FWD,70,1.3723859
-Lacey,MID,50,1.3723859
-Maatsen,DEF,45,0.58729434
-Lindelöf,DEF,45,0.58729434
-Garnacho,MID,60,0.58729434
-Buendía,MID,60,0.58729434
-M.Bizot,GKP,45,0.58729434
-Cash,DEF,45,0.58729434
-McGinn,MID,55,0.58729434
-Pau,DEF,45,0.58729434
-Barkley,MID,50,0.58729434
-George Hemmings,MID,45,0.58729434
-Bogarde,MID,50,0.58729434
-Mings,DEF,45,0.58729434
-Alysson,MID,50,0.58729434
-Gomes,MID,55,0.58729434
+web_name,pos_name,team_name,now_cost,predicted_next_points
+Gibbs-White,MID,Nott'm Forest,79,11.45834732055664
+Ajayi,DEF,Hull City,40,2.0157651901245117
+Mendy,DEF,Hull City,40,2.0157651901245117
+Matheus N.,DEF,Man City,60,1.7101553678512573
+Osula,FWD,Newcastle,60,1.612465500831604
+Coyle,DEF,Hull City,40,1.6011298894882202
+Schär,DEF,Newcastle,50,1.523597002029419
+Anderson,MID,Man City,64,1.363916277885437
+Rodríguez,FWD,Bournemouth,60,1.2384768724441528
+Jacquet,DEF,Liverpool,50,1.2322299480438232
+Drameh,DEF,Hull City,40,1.1623961925506592
+Morita,MID,Hull City,50,1.1087514162063599
+Wharton,MID,Crystal Palace,55,0.9752321839332581
+Henderson,GK,Crystal Palace,50,0.9110634922981262
+Tielemans,MID,Man Utd,60,0.898201048374176
+Hackney,MID,Everton,55,0.8722267746925354
+L.Miley,MID,Newcastle,55,0.8497797250747681
+Garner,MID,Everton,60,0.8399292826652527
+Enciso,MID,Ipswich Town,55,0.8123680353164673
+Crooks,MID,Hull City,45,0.7936348915100098
+I.Sangaré,MID,Nott'm Forest,50,0.7913917303085327
+Murillo,DEF,Nott'm Forest,55,0.7738513350486755
+White,DEF,Arsenal,55,0.7738513350486755
+Kamara,MID,Aston Villa,50,0.7704944014549255
+Gomes,MID,Aston Villa,55,0.5883901119232178
+Iroegbunam,MID,Everton,50,0.5206716656684875
+Mason-Clark,MID,Coventry City,55,0.5076028108596802
+Brooks,MID,Bournemouth,50,0.5070884227752686
+Christie,MID,Bournemouth,50,0.5070884227752686
+Grealish,MID,Man City,65,0.47008267045021057
+Rudoni,MID,Coventry City,50,0.46589669585227966
+Šeško,FWD,Man Utd,70,0.4384343922138214
+Hudson-Odoi,MID,Nott'm Forest,59,0.4105563461780548
+Kudus,MID,Spurs,65,0.3824184536933899
+Mateta,FWD,Crystal Palace,65,0.3793124854564667
+Pedro Porro,DEF,Spurs,55,0.36834028363227844
+Meunier,DEF,Sunderland,45,0.33744731545448303
+Adams,MID,Bournemouth,50,0.32505667209625244
+Quenda,MID,Chelsea,55,0.28286927938461304
+Maddison,MID,Spurs,64,0.23031005263328552
+Georginio,FWD,Brighton,55,0.19481027126312256
+Van de Ven,DEF,Spurs,50,0.13600857555866241
+Alderete,DEF,Sunderland,50,0.10020461678504944
+Hinshelwood,MID,Brighton,60,0.08083860576152802
+Chadi Riad,DEF,Crystal Palace,44,0.056831296533346176
+Palmer,MID,Chelsea,96,0.04041670635342598
+Rogers,MID,Chelsea,75,0.0
+Buendía,MID,Aston Villa,60,0.0
+Guessand,MID,Crystal Palace,55,0.0
+McGinn,MID,Aston Villa,55,0.0
+Barkley,MID,Aston Villa,50,0.0
+George Hemmings,MID,Aston Villa,45,0.0
+Alysson,MID,Aston Villa,50,0.0
+Petrović,GK,Bournemouth,45,0.0
+Hill,DEF,Bournemouth,55,0.0
+Truffert,DEF,Bournemouth,55,0.0
+Smith,DEF,Bournemouth,45,0.0
+Rayan,MID,Bournemouth,65,0.0
+Tavernier,MID,Bournemouth,60,0.0
+Scott,MID,Bournemouth,60,0.0
+Kluivert,MID,Bournemouth,60,0.0
+Cook,MID,Bournemouth,50,0.0
+Gannon-Doak,MID,Bournemouth,50,0.0
+Lewis-Skelly,MID,Arsenal,55,0.0
+Tóth.A,MID,Bournemouth,50,0.0
+Evanilson,FWD,Bournemouth,60,0.0
+Kelleher,GK,Brentford,50,0.0
+Collins,DEF,Brentford,55,0.0
+Lewis-Potter,MID,Brentford,55,0.0
+Ajer,DEF,Brentford,45,0.0
+Kayode,DEF,Brentford,46,0.0
+Hickey,DEF,Brentford,45,0.0
+Pinnock,DEF,Coventry City,45,0.0
+Schade,MID,Brentford,60,0.0
+O.Dango,MID,Brentford,65,0.0
+Damsgaard,MID,Brentford,55,0.0
+Jensen,MID,Brentford,55,0.0
+Janelt,MID,Brentford,50,0.0
+Yarmoliuk,MID,Brentford,50,0.0
+Onyeka,MID,Coventry City,50,0.0
+Anthony,MID,Brentford,60,0.0
+Thiago,FWD,Brentford,80,0.0
+Wilson,FWD,Brentford,55,0.0
+Verbruggen,GK,Brighton,45,0.0
+Rushworth,GK,Coventry City,45,0.0
+Van Hecke,DEF,Spurs,50,0.0
+Boscagli,DEF,Brighton,45,0.0
+De Cuyper,DEF,Brighton,46,0.0
+Dunk,DEF,Brighton,45,0.0
+Costinha,DEF,Brighton,45,0.0
+Groß,MID,Brighton,55,0.0
+Gomez,MID,Brighton,50,0.0
+Ayari,MID,Brighton,55,0.0
+Wieffer,DEF,Brighton,50,0.0
+Yohanna,MID,Brighton,50,0.0
+Kostoulas,FWD,Brighton,55,0.0
+Sánchez,GK,Chelsea,50,0.0
+James,DEF,Chelsea,55,0.0
+Gusto,DEF,Chelsea,50,0.0
+Hato,DEF,Chelsea,45,0.0
+Colwill,DEF,Chelsea,50,0.0
+Acheampong,DEF,Chelsea,45,0.0
+Disasi,DEF,Crystal Palace,45,0.0
+Enzo,MID,Chelsea,70,0.0
+Neto,MID,Chelsea,65,0.0
+Estêvão,MID,Chelsea,65,0.0
+Garnacho,MID,Aston Villa,60,0.0
+Lavia,MID,Chelsea,50,0.0
+Andrey Santos,MID,Man Utd,50,0.0
+João Pedro,FWD,Chelsea,76,0.0
+Delap,FWD,Nott'm Forest,55,0.0
+Thomas,DEF,Coventry City,40,0.0
+van Ewijk,DEF,Coventry City,40,0.0
+Dasilva,DEF,Coventry City,40,0.0
+Amenda,DEF,Coventry City,40,0.0
+Grimes,MID,Coventry City,50,0.0
+Sakamoto,MID,Coventry City,50,0.0
+Torp,MID,Coventry City,55,0.0
+Tchaouna,MID,Coventry City,55,0.0
+Thomas-Asante,FWD,Coventry City,50,0.0
+Simms,FWD,Coventry City,50,0.0
+Lacroix,DEF,Chelsea,60,0.0
+Muñoz,DEF,Crystal Palace,55,0.0
+Richards,DEF,Crystal Palace,50,0.0
+Canvot,DEF,Crystal Palace,50,0.0
+Mitchell,DEF,Crystal Palace,45,0.0
+Mingueza,DEF,Crystal Palace,45,0.0
+Johnson,MID,Everton,60,0.0
+Yeremy,MID,Crystal Palace,55,0.0
+Kamada,MID,Crystal Palace,50,0.0
+Strand Larsen,FWD,Crystal Palace,60,0.0
+Nketiah,FWD,Crystal Palace,55,0.0
+Pickford,GK,Everton,55,0.0
+Tarkowski,DEF,Everton,60,0.0
+Branthwaite,DEF,Everton,55,0.0
+Mykolenko,DEF,Everton,45,0.0
+Dewsbury-Hall,MID,Everton,65,0.0
+Ndiaye,MID,Everton,60,0.0
+McNeil,MID,Crystal Palace,55,0.0
+George,MID,Everton,55,0.0
+Alcaraz,MID,Everton,50,0.0
+Armstrong,MID,Everton,50,0.0
+Röhl,MID,Everton,50,0.0
+Beto,FWD,Everton,55,0.0
+Barry,FWD,Everton,55,0.0
+Leno,GK,Fulham,45,0.0
+Robinson,DEF,Fulham,45,0.0
+J.Cuenca,DEF,Fulham,45,0.0
+Bassey,DEF,Fulham,45,0.0
+Castagne,DEF,Fulham,45,0.0
+Diop,DEF,Ipswich Town,40,0.0
+Wilson,MID,Leeds,65,0.0
+Iwobi,MID,Fulham,55,0.0
+Kevin,MID,Fulham,55,0.0
+Bobb,MID,Fulham,55,0.0
+Berge,MID,Fulham,50,0.0
+Lukić,MID,Ipswich Town,50,0.0
+King,MID,Fulham,55,0.0
+Sessegnon,DEF,Fulham,45,0.0
+Muniz,FWD,Fulham,55,0.0
+Egan,DEF,Hull City,40,0.0
+Giles,DEF,Hull City,40,0.0
+McNair,DEF,Hull City,40,0.0
+Belloumi,MID,Hull City,50,0.0
+Millar,MID,Hull City,50,0.0
+Slater,MID,Hull City,45,0.0
+McBurnie,FWD,Hull City,55,0.0
+O'Shea,DEF,Ipswich Town,40,0.0
+Davis,DEF,Ipswich Town,40,0.0
+Greaves,DEF,Ipswich Town,40,0.0
+Núñez,MID,Ipswich Town,50,0.0
+Clarke,MID,Ipswich Town,55,0.0
+Fatawu,MID,Ipswich Town,55,0.0
+Emersonn,FWD,Ipswich Town,55,0.0
+Akpom,FWD,Ipswich Town,50,0.0
+Walle Egeli,FWD,Ipswich Town,45,0.0
+McAteer,MID,Ipswich Town,45,0.0
+Bijol,DEF,Leeds,50,0.0
+Rodon,DEF,Leeds,45,0.0
+Bogle,DEF,Leeds,45,0.0
+Justin,DEF,Leeds,45,0.0
+Muharemović,DEF,Leeds,50,0.0
+Stach,MID,Leeds,60,0.0
+Okafor,MID,Leeds,60,0.0
+Aaronson,MID,Leeds,55,0.0
+Ampadu,MID,Leeds,55,0.0
+Longstaff,MID,Leeds,50,0.0
+Calvert-Lewin,FWD,Leeds,60,0.0
+A.Becker,GK,Liverpool,55,0.0
+Virgil,DEF,Liverpool,65,0.0
+Frimpong,DEF,Liverpool,55,0.0
+Kerkez,DEF,Liverpool,55,0.0
+Maeda,MID,Ipswich Town,55,0.0
+Tsimikas,DEF,Liverpool,50,0.0
+Wirtz,MID,Liverpool,75,0.0
+Gakpo,MID,Liverpool,70,0.0
+Szoboszlai,MID,Liverpool,70,0.0
+Ngumoha,MID,Liverpool,60,0.0
+Gravenberch,MID,Liverpool,60,0.0
+Mac Allister,MID,Liverpool,55,0.0
+Nyoni,MID,Liverpool,50,0.0
+Munoz,MID,Liverpool,65,0.0
+Isak,FWD,Liverpool,90,0.0
+Koumas,MID,Liverpool,50,0.0
+Donnarumma,GK,Man City,55,0.0
+Trafford,GK,Leeds,50,0.0
+O'Reilly,DEF,Man City,65,0.0
+Guéhi,DEF,Man City,60,0.0
+Pau,DEF,Aston Villa,45,0.0
+Rúben,DEF,Man City,55,0.0
+Gvardiol,DEF,Man City,55,0.0
+Khusanov,DEF,Man City,55,0.0
+Lewis,DEF,Man City,45,0.0
+Vitor Reis,DEF,Man City,45,0.0
+Semenyo,MID,Man City,85,0.0
+Foden,MID,Man City,70,0.0
+Cherki,MID,Man City,76,0.0
+Marmoush,FWD,Spurs,70,0.0
+N.Gonzalez,MID,Newcastle,55,0.0
+Kovačić,MID,Man City,55,0.0
+Haaland,FWD,Man City,155,0.0
+Lammens,GK,Man Utd,50,0.0
+Dorgu,MID,Man Utd,59,0.0
+Dalot,DEF,Man Utd,50,0.0
+Maguire,DEF,Man Utd,50,0.0
+Heaven,DEF,Man Utd,45,0.0
+Mazraoui,DEF,Man Utd,45,0.0
+Shaw,DEF,Man Utd,45,0.0
+B.Fernandes,MID,Man Utd,120,0.0
+Mbeumo,MID,Man Utd,80,0.0
+Cunha,MID,Man Utd,80,0.0
+Rashford,MID,Man Utd,70,0.0
+Mainoo,MID,Man Utd,55,0.0
+Lacey,MID,Man Utd,50,0.0
+Raya,GK,Arsenal,60,0.0
+Thiaw,DEF,Newcastle,50,0.0
+Scherpen,GK,Ipswich Town,45,0.0
+Botman,DEF,Newcastle,50,0.0
+Hall,DEF,Newcastle,50,0.0
+Barnes,MID,Newcastle,60,0.0
+Elanga,MID,Newcastle,60,0.0
+Tonali,MID,Spurs,55,0.0
+J.Ramsey,MID,Newcastle,50,0.0
+J.Murphy,MID,Newcastle,60,0.0
+M.Sangaré,MID,Brentford,56,0.0
+Willock,MID,Newcastle,50,0.0
+Touré,MID,Newcastle,60,0.0
+Steur,MID,Newcastle,50,0.0
+Woltemade,FWD,Newcastle,60,0.0
+Wissa,FWD,Newcastle,60,0.0
+Silva,DEF,Bournemouth,50,0.0
+Sels,GK,Nott'm Forest,50,0.0
+N.Williams,DEF,Nott'm Forest,50,0.0
+Milenković,DEF,Nott'm Forest,55,0.0
+Horníček,GK,Newcastle,50,0.0
+Aina,DEF,Nott'm Forest,45,0.0
+Jair Cunha,DEF,Nott'm Forest,45,0.0
+Netz,DEF,Nott'm Forest,45,0.0
+Gonzalo,FWD,Fulham,60,0.0
+Palacios,MID,Fulham,55,0.0
+Tzolakis,GK,Hull City,45,0.0
+Ndoye,MID,Nott'm Forest,55,0.0
+McAtee,MID,Nott'm Forest,55,0.0
+Dominguez,MID,Nott'm Forest,50,0.0
+Yirenkyi,MID,Coventry City,50,0.0
+Wood,FWD,Nott'm Forest,60,0.0
+Igor Jesus,FWD,Nott'm Forest,60,0.0
+Awoniyi,FWD,Coventry City,55,0.0
+Kalimuendo,FWD,Nott'm Forest,55,0.0
+Kinsky,GK,Spurs,45,0.0
+Senesi,DEF,Spurs,60,0.0
+Stroud,MID,Hull City,50,0.0
+Robertson,DEF,Spurs,45,0.0
+Tomiyasu,DEF,Crystal Palace,45,0.0
+Vuskovic,DEF,Brighton,50,0.0
+Udogie,DEF,Spurs,45,0.0
+Araujo,DEF,Liverpool,55,0.0
+Tel,MID,Spurs,60,0.0
+Charles,MID,Fulham,50,0.0
+Bentancur,MID,Spurs,55,0.0
+Gallagher,MID,Spurs,55,0.0
+Bergvall,MID,Spurs,55,0.0
+Gray,MID,Spurs,50,0.0
+Moore,MID,Spurs,50,0.0
+Fernandes,MID,Spurs,60,0.0
+Solanke,FWD,Spurs,60,0.0
+Richarlison,FWD,Spurs,60,0.0
+Roefs,GK,Sunderland,50,0.0
+Ballard,DEF,Sunderland,50,0.0
+Hume,DEF,Sunderland,45,0.0
+Chavarria,DEF,Chelsea,50,0.0
+Reinildo,DEF,Sunderland,45,0.0
+O'Nien,DEF,Sunderland,40,0.0
+Hamer,MID,Coventry City,55,0.0
+E.Le Fée,MID,Sunderland,60,0.0
+Diarra,MID,Sunderland,55,0.0
+Xhaka,MID,Sunderland,55,0.0
+Sadiki,MID,Sunderland,50,0.0
+Rigg,MID,Sunderland,50,0.0
+Talbi,MID,Sunderland,55,0.0
+Angulo,MID,Sunderland,50,0.0
+Brobbey,FWD,Sunderland,60,0.0
+Isidor,FWD,Sunderland,55,0.0
+Targett,DEF,Hull City,40,0.0
+Tzolis,MID,Arsenal,65,0.0
+Schlager,MID,Nott'm Forest,50,0.0
+Bamba,MID,Newcastle,50,0.0
+Herrington,DEF,Hull City,40,0.0
+Bogarde,MID,Aston Villa,50,0.0
+Khalaili,DEF,Crystal Palace,50,0.0
+Gourna-Douath,MID,Hull City,50,0.0
+Maatsen,DEF,Aston Villa,45,0.0
+Ouattara,DEF,Ipswich Town,40,0.0
+Dedić,DEF,Newcastle,45,0.0
+Gozo,MID,Crystal Palace,50,0.0
+Ruggeri,DEF,Aston Villa,45,0.0
+Osman,MID,Brighton,50,0.0
+Yalcouyé,MID,Brighton,45,0.0
+Jebbison,FWD,Bournemouth,50,0.0
+Bouaddi,MID,Man City,55,0.0
+Cho,MID,Hull City,50,0.0
+McAidoo,MID,Man City,45,0.0
+Braithwaite,DEF,Man City,40,0.0
+Calafiori,DEF,Arsenal,56,0.0
+Hincapie,DEF,Arsenal,54,0.0
+Lindelöf,DEF,Aston Villa,45,0.0
+Mosquera,DEF,Arsenal,55,0.0
+Saka,MID,Arsenal,95,0.0
+Rice,MID,Arsenal,75,0.0
+Eze,MID,Arsenal,64,0.0
+Ødegaard,MID,Arsenal,66,0.0
+Madueke,MID,Arsenal,64,0.0
+Merino,MID,Arsenal,59,0.0
+Zubimendi,MID,Arsenal,54,0.0
+Havertz,FWD,Arsenal,75,0.0
+M.Bizot,GK,Aston Villa,45,0.0
+Cash,DEF,Aston Villa,45,0.0
+Mings,DEF,Aston Villa,45,0.0
+Gabriel,DEF,Arsenal,80,0.0
